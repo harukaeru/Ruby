@@ -1,5 +1,9 @@
-def hello
-  puts 'hello'
-end
+# hello
+puts 'hello'
 
-hello
+# hello2
+puts 'hello2'
+
+# hello3
+puts 'hello3'
+
